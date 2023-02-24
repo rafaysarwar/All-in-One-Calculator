@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Rafay\Documents\University Material\Mid's Project\Project17\Source.cpp(126,22): warning C4101:  'c': unreferenced local variable
+C:\Users\Rafay\Documents\University Material\Mid's Project\Project17\Source.cpp(153,22): warning C4101:  'c': unreferenced local variable
+C:\Users\Rafay\Documents\University Material\Mid's Project\Project17\Source.cpp(179,22): warning C4101:  'c': unreferenced local variable
+C:\Users\Rafay\Documents\University Material\Mid's Project\Project17\Source.cpp(205,22): warning C4101:  'c': unreferenced local variable
+  Project17.vcxproj -> C:\Users\Rafay\Documents\University Material\Mid's Project\Debug\Project17.exe
